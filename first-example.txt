@@ -1,3 +1,7 @@
 This is a practice file for git.
 
 Example contains first and second change.
+
+note the changes
+
+perfect match
